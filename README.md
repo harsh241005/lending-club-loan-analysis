@@ -79,4 +79,4 @@ ROI is calculated only on **completed** loans (Fully Paid + Charged Off). Loans 
 | `make_powerbi_csv.py` | Preprocessing script (raw file → 150K sample) |
 | `/screenshots` | Dashboard images |
 
-**Data source:** LendingClub public loan data, 2007–2018 (Kaggle). _[add link]_
+**Data source:** LendingClub public loan data, 2007–2018 (Kaggle). [kaggle-dataset](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
